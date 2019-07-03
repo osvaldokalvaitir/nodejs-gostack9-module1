@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Node.js e Express.
+Aplicação usando Node.js, Express, Nodemon e Insomnia.
 
 ## Índice
 
@@ -26,6 +26,8 @@ Aplicação usando Node.js e Express.
 
   - [Bibliotecas](#bibliotecas)
 
+  - [APIs](#apis)
+
   - [Ferramentas](#ferramentas)
   
 ## Desenvolvimento
@@ -40,7 +42,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento`.
 
 ## Utilizados no Projeto
 
@@ -53,3 +55,17 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Ferramentas
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
+
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Usuários
+
+      - Adiciona novos usuários
+      - Lista todos os usuários
+      - Lista somente dados de um usuário
+      - Edita dados de usuários existentes
+      - Exclui usuários existentes
