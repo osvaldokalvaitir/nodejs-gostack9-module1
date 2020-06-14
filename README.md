@@ -52,10 +52,6 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
-### Ferramentas
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
-
 ### APIs
 
 - **Interna**
@@ -69,3 +65,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
       - Lista somente dados de um usuário
       - Edita dados de usuários existentes
       - Exclui usuários existentes
+
+### Ferramentas
+
+- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
