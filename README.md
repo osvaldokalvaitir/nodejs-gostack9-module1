@@ -1,71 +1,59 @@
-# Node.js - Módulo 1 (Novo)
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo1-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo1-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo1-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo1-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo1-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo1-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo1-novo.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - GoStack 9 Module 1
+</h3>
 
-Aplicação usando Node.js, Express, Nodemon e Insomnia.
+<p align="center">
+  :man: Application using Node.js, Express, Nodemon and Insomnia
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-gostack9-module1.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-gostack9-module1.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-  - [APIs](#apis)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-gostack9-module1
 
-  - [Ferramentas](#ferramentas)
-  
-## Desenvolvimento
+# Entry in folder
+cd nodejs-gostack9-module1
 
-### Configuração do Ambiente
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Launch the app with npm or yarn
+npm dev | yarn dev
+```
 
-### Instalação do Projeto
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md).
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Usuários
-
-      - Adiciona novos usuários
-      - Lista todos os usuários
-      - Lista somente dados de um usuário
-      - Edita dados de usuários existentes
-      - Exclui usuários existentes
-
-### Ferramentas
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
